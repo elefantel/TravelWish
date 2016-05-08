@@ -11,3 +11,7 @@ By choosing a region of your country of interest, then selecting that country, y
 
 ## Dependencies
 This app uses the REST Countries API for all country information.
+
+## Licence
+TravelWish is licensed under the terms of the <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License.</a>. Please see the LICENSE file for full details.
+
